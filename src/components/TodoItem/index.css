@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+  padding: 8px;
+}
+.list-content {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.dlt-button {
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  border: 1px solid #ff0b37;
+  cursor: pointer;
+  outline: none;
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  margin-left: 20px;
+}
